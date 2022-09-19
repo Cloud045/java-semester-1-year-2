@@ -1,1 +1,1 @@
-# java-semester-1-year-2
+# use for submit exer Java
