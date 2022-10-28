@@ -1,0 +1,5 @@
+﻿  struct05.cpp
+C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct05\linear.h(9,9): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct05\struct05.cpp(15,9): warning C4101: 'rand_int': unreferenced local variable
+C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct05\struct05.cpp(260,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  struct05.vcxproj -> C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct05\Debug\struct05.exe

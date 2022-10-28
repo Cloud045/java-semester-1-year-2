@@ -1,0 +1,4 @@
+﻿  struct3.cpp
+C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct3\struct3.cpp(49,47): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct3\struct3.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+  struct3.vcxproj -> C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct3\Debug\struct3.exe

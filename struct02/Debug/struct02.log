@@ -1,0 +1,4 @@
+﻿  struc02.cpp
+C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct02\struc02.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct02\struc02.cpp(105,14): warning C4018: '<': signed/unsigned mismatch
+  struct02.vcxproj -> C:\Users\nghie\OneDrive\Documents\Studyyyyyyyyyyyyyyyyyyyyyyyyy\c++\ki1 - nam2\struct02\Debug\struct02.exe
